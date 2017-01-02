@@ -1,2 +1,2 @@
 # SoldierPrefab
-Asset za vojnika iz predmeta HCI 
+Soldier Assets for Subject Human Computer Interaction
